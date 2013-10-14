@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[GrowthHiking - グロース]]></title>
-  <link href="http://growthhiking.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: テスト | GrowthHiking - グロース]]></title>
+  <link href="http://growthhiking.github.io/blog/categories/tesuto/atom.xml" rel="self"/>
   <link href="http://growthhiking.github.io/"/>
   <updated>2013-10-14T09:45:17+00:00</updated>
   <id>http://growthhiking.github.io/</id>
